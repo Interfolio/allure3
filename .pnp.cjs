@@ -967,7 +967,7 @@ const RAW_RUNTIME_STATE =
           ["npm-run-all2", "npm:7.0.1"],\
           ["postcss", "npm:8.4.49"],\
           ["preact", "npm:10.24.0"],\
-          ["prismjs", "npm:1.29.0"],\
+          ["prismjs", "npm:1.30.0"],\
           ["reset.css", "npm:2.0.2"],\
           ["rimraf", "npm:6.0.1"],\
           ["sass", "npm:1.79.1"],\
@@ -1045,7 +1045,7 @@ const RAW_RUNTIME_STATE =
           ["npm-run-all2", "npm:7.0.1"],\
           ["postcss", "npm:8.4.49"],\
           ["preact", "npm:10.24.0"],\
-          ["prismjs", "npm:1.29.0"],\
+          ["prismjs", "npm:1.30.0"],\
           ["reset.css", "npm:2.0.2"],\
           ["rimraf", "npm:6.0.1"],\
           ["sass", "npm:1.79.1"],\
@@ -1178,7 +1178,7 @@ const RAW_RUNTIME_STATE =
           ["postcss", "npm:8.4.49"],\
           ["postcss-import", "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:16.1.0"],\
           ["preact", "npm:10.24.0"],\
-          ["prismjs", "npm:1.29.0"],\
+          ["prismjs", "npm:1.30.0"],\
           ["react", [\
             "@preact/compat",\
             "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:18.3.1"\
@@ -15749,7 +15749,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["babel-plugin-prismjs", "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:2.1.0"],\
           ["@types/prismjs", "npm:1.26.4"],\
-          ["prismjs", "npm:1.29.0"]\
+          ["prismjs", "npm:1.30.0"]\
         ],\
         "packagePeers": [\
           "@types/prismjs",\
@@ -26845,10 +26845,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prismjs", [\
-      ["npm:1.29.0", {\
-        "packageLocation": "./.yarn/cache/prismjs-npm-1.29.0-6faa5b04b8-2080db382c.zip/node_modules/prismjs/",\
+      ["npm:1.30.0", {\
+        "packageLocation": "./.yarn/cache/prismjs-npm-1.30.0-c3c5ff824c-6b48a2439a.zip/node_modules/prismjs/",\
         "packageDependencies": [\
-          ["prismjs", "npm:1.29.0"]\
+          ["prismjs", "npm:1.30.0"]\
         ],\
         "linkType": "HARD"\
       }]\
