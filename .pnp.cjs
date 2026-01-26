@@ -9347,7 +9347,7 @@ const RAW_RUNTIME_STATE =
           ["@nivo/core", "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:0.88.0"],\
           ["@react-spring/web", "virtual:aac8a984f465362be06f31c9c343dbb9634156d7e166ddb7b5d436c73d2f1c4c6dd117cde59cb725a68ef051b98b61932fb4e67d748052749a1e7a8383c9ccc3#npm:9.7.5"],\
           ["@types/react", null],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", [\
             "@preact/compat",\
             "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:18.3.1"\
@@ -9413,7 +9413,7 @@ const RAW_RUNTIME_STATE =
           ["d3-color", "npm:3.1.0"],\
           ["d3-scale", "npm:4.0.2"],\
           ["d3-scale-chromatic", "npm:3.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["prop-types", "npm:15.8.1"],\
           ["react", [\
             "@preact/compat",\
@@ -9450,7 +9450,7 @@ const RAW_RUNTIME_STATE =
           ["d3-scale-chromatic", "npm:3.1.0"],\
           ["d3-shape", "npm:3.2.0"],\
           ["d3-time-format", "npm:3.0.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["prop-types", "npm:15.8.1"],\
           ["react", [\
             "@preact/compat",\
@@ -9516,7 +9516,7 @@ const RAW_RUNTIME_STATE =
           ["@react-spring/web", "virtual:aac8a984f465362be06f31c9c343dbb9634156d7e166ddb7b5d436c73d2f1c4c6dd117cde59cb725a68ef051b98b61932fb4e67d748052749a1e7a8383c9ccc3#npm:9.7.5"],\
           ["@types/react", null],\
           ["d3-shape", "npm:3.2.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["react", [\
             "@preact/compat",\
             "virtual:2a41e375ad1745f4c69d568329bd8e93efd510482b591608adf07903c1c7c5da80f70ebacb4333f4d323a30d1e56bc854b865daa7bb0df195591c42c3c3dc214#npm:18.3.1"\
@@ -9540,7 +9540,7 @@ const RAW_RUNTIME_STATE =
           ["d3-scale", "npm:4.0.2"],\
           ["d3-time", "npm:1.1.0"],\
           ["d3-time-format", "npm:3.0.0"],\
-          ["lodash", "npm:4.17.21"]\
+          ["lodash", "npm:4.17.23"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -12109,7 +12109,7 @@ const RAW_RUNTIME_STATE =
           ["chalk", "npm:3.0.0"],\
           ["css.escape", "npm:1.5.1"],\
           ["dom-accessibility-api", "npm:0.6.3"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["redent", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -12123,7 +12123,7 @@ const RAW_RUNTIME_STATE =
           ["chalk", "npm:3.0.0"],\
           ["css.escape", "npm:1.5.1"],\
           ["dom-accessibility-api", "npm:0.6.3"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["redent", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -12194,7 +12194,7 @@ const RAW_RUNTIME_STATE =
           ["@types/vue__compiler-sfc", null],\
           ["@vue/compiler-sfc", null],\
           ["javascript-natural-sort", "npm:0.7.1"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["prettier", "npm:3.3.3"]\
         ],\
         "packagePeers": [\
@@ -13437,7 +13437,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-visitor-keys", "npm:1.3.0"],\
           ["glob", "npm:7.2.3"],\
           ["is-glob", "npm:4.0.3"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["semver", "npm:7.6.3"],\
           ["tsutils", "virtual:9425c4a4614855bcee323437ba1b792d759cd5ca55a3f405fba4619dacfffdb927a7b41b0888ca392f6ffb5b4044a3ba6f79a842d66a1906557e3cc76c1e8914#npm:3.21.0"],\
           ["typescript", null]\
@@ -14984,7 +14984,7 @@ const RAW_RUNTIME_STATE =
           ["graceful-fs", "npm:4.2.11"],\
           ["is-stream", "npm:2.0.1"],\
           ["lazystream", "npm:1.0.1"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["normalize-path", "npm:3.0.0"],\
           ["readable-stream", "npm:4.7.0"]\
         ],\
@@ -21523,7 +21523,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", "virtual:1b8eca1873e83aeff31218f2077ee4cd4696d18a324e697f226fe249d690df1e0f131eacd819df86c73d99d0693164c077816fe2676ad3388726c3d6c4587775#npm:5.94.0"]\
@@ -21545,7 +21545,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", "virtual:24e0b849dfb6c9034992217368f7c7994d5eed61245606aebf649c30ac09a93fedc2a6b35eca5fc98c9ff108db7646895ee940e0375055ff3a6531a474d48905#npm:5.94.0"]\
@@ -21567,7 +21567,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", null]\
@@ -21589,7 +21589,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", "virtual:4d93ab35a1ad5c97dfb9d513244ed4ab5ca7b5ad2eeb7287d92a3be8626215d6395b3f06dbce8c27d984a95d65e37983159a77b5112d59acf6399e3b68dfbf33#npm:5.94.0"]\
@@ -21611,7 +21611,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", "virtual:c66117924d74d8c8383240e41a734c2dff366c7d2dad6ebb4c4773d406855c169bc14100c6748dbcf0914889503173bd2df7fadd09b71fe9c0a978616d948a39#npm:5.94.0"]\
@@ -21633,7 +21633,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["html-minifier-terser", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["pretty-error", "npm:4.0.0"],\
           ["tapable", "npm:2.2.1"],\
           ["webpack", "virtual:efe1e820f39eee1b593e4fdf26e6a5d8d4dad557c7c29453e94b3ad50fe0825ce674e8e3b34ae7a6dbefc97b26934a345c11dc9ab2b9b06a4967a970681a0bd4#npm:5.97.1"]\
@@ -23305,10 +23305,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lodash", [\
-      ["npm:4.17.21", {\
-        "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-c08619c038.zip/node_modules/lodash/",\
+      ["npm:4.17.23", {\
+        "packageLocation": "./.yarn/cache/lodash-npm-4.17.23-50bdb1c01a-82504c8825.zip/node_modules/lodash/",\
         "packageDependencies": [\
-          ["lodash", "npm:4.17.21"]\
+          ["lodash", "npm:4.17.23"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -26826,7 +26826,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/pretty-error-npm-4.0.0-7cca1fe4ad-0212ad8742.zip/node_modules/pretty-error/",\
         "packageDependencies": [\
           ["pretty-error", "npm:4.0.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["renderkid", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -27346,7 +27346,7 @@ const RAW_RUNTIME_STATE =
           ["css-select", "npm:4.3.0"],\
           ["dom-converter", "npm:0.2.0"],\
           ["htmlparser2", "npm:6.1.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["strip-ansi", "npm:6.0.1"]\
         ],\
         "linkType": "HARD"\
